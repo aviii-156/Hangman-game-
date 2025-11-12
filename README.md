@@ -74,17 +74,32 @@ You then guess letters until you either complete the word or run out of tries.
 make sure type character  by character  it does't work word by word.
 
 ```bash
-Guess which Fruits is this?
+Category: Fruits
 
 Word: _ _ _ _ _
 Tries left: 6
 Guess a letter: a
 ✅ Good guess!
 
-Word: a _ _ a _
+Word:a _ _ a _
 Tries left: 6
 Guess a letter: p
 ✅ Good guess!
+
+Word: a p p a _
+Tries left: 6
+Guess a letter: l
+✅ Good guess!
+
+Word: a p p l _
+Tries left: 6
+Guess a letter: e
+✅ Good guess!
+
+🎉 Congratulations! You guessed the word: a p p l e 🍎
+Tries used: 4
+Tries left: 6
+
 ```
 
 🎉 Congratulations! You guessed it right: apple
