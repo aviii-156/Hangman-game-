@@ -31,8 +31,6 @@ This project helps you understand:
 
 ---
 
-## ⚙️ How to Run
-
 ## ⚙️ How the Program Runs
 
 The **Hangman Game** runs directly in the **terminal or command prompt** after compiling.  
